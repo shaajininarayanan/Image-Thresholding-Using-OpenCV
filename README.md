@@ -245,11 +245,23 @@ Thus, image segmentation was successfully performed using Global Thresholding, A
 Add your Jupyter Notebook screenshots below:
 
 - **Output 1:** Original and Grayscale Images
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9473f04f-403d-4d00-bfa9-8997ad61f523" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/24f9c74e-39bc-4441-84a9-dd84ff6e2f1a" />
+
 - **Output 2:** Global Thresholding
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/996957e8-1b73-4866-bbb0-e39febb61399" />
+
 - **Output 3:** Adaptive Mean Thresholding
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9a02efd5-9252-4a0a-9fa7-1347c4bebdfb" />
+
 - **Output 4:** Adaptive Gaussian Thresholding
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/597e2a08-dfcf-408b-9b6e-9c3e3f33c182" />
+
 - **Output 5:** Otsu's Thresholding
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9c206807-cf52-4f69-8c3a-21c824e58b67" />
+
 - **Output 6:** Comparison of All Techniques
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/245bf89e-9cd0-4651-8839-ebc22219fb56" />
 
 ## Instructions
 
